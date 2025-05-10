@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Praktikum 6
 ### Soal 12
-![Capture soal 14](assets/streambuilder.gif)
+![Capture soal 12](assets/streambuilder.gif)
 
 1. Langkah 3
 getNumber() mengembalikan sebuah stream dari angka acak (int) yang terus-menerus menghasilkan angka baru setiap 1 detik. yield* digunakan untuk meneruskan (delegate) semua nilai dari Stream.periodic. Random().nextInt(10) akan menghasilkan angka 0 sampai 9 secara acak.
